@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 -->
 
 🤔 learn and explore...
+![](https://visitor-badge.glitch.me/badge?page_id=daisybaicai.daisybaicai)
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=daisybaicai&show_icons=true&theme=onedark" />
